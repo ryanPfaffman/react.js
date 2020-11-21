@@ -1,0 +1,23 @@
+html {
+  background-color: red;
+}
+
+body {
+  background-color: red;
+  margin: 0px 0px 0px 0px;
+  margin-top: auto;
+  min-height: 100vh;
+  text-align: center;
+}
+
+#button {
+  cursor: pointer;
+}
+
+#table {
+  background-color: gold;
+  margin-top: 12%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25%;
+}
